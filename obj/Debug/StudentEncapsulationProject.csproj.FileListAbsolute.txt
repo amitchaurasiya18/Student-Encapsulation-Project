@@ -1,0 +1,7 @@
+D:\Visual Studio Projects (Training)\StudentEncapsulationProject\bin\Debug\StudentEncapsulationProject.exe.config
+D:\Visual Studio Projects (Training)\StudentEncapsulationProject\bin\Debug\StudentEncapsulationProject.exe
+D:\Visual Studio Projects (Training)\StudentEncapsulationProject\bin\Debug\StudentEncapsulationProject.pdb
+D:\Visual Studio Projects (Training)\StudentEncapsulationProject\obj\Debug\StudentEncapsulationProject.csproj.AssemblyReference.cache
+D:\Visual Studio Projects (Training)\StudentEncapsulationProject\obj\Debug\StudentEncapsulationProject.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects (Training)\StudentEncapsulationProject\obj\Debug\StudentEncapsulationProject.exe
+D:\Visual Studio Projects (Training)\StudentEncapsulationProject\obj\Debug\StudentEncapsulationProject.pdb
